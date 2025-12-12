@@ -1,4 +1,4 @@
-# RESTAURANT_BILL_MANAGEMENT
+# RESTAURANT_BILL_SYSTEM
 
 *Project Title
 Restaurant Billing System in C
